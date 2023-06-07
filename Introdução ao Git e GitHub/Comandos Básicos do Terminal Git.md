@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
 <img src="imagens/gitlogo.jpg" alt="Git Logo">
-</p>
+</div>
 
 #Comandos Básicos do Git :school:
   - **git init**

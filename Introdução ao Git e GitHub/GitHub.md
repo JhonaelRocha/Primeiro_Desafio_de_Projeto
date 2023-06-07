@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
 <img src="imagens/github_logo.jpg" alt="Git Hub Logo">
-</p>
+</div>
 #GitHub
 
 O GitHub é amplamente utilizado para hospedar projetos de código aberto, fornecer documentação técnica, criar portfólios de projetos, colaborar em equipes distribuídas e muito mais. Ele se tornou um componente essencial do ecossistema de desenvolvimento de software moderno.
