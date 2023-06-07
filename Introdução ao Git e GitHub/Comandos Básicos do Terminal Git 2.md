@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+  <img src="imagens/gitlogo.jpg" alt="GitHub Logo">
+  <p><em></em></p>
+</div>
 # Comandos Básicos do Terminal Git 2
  - **ls**
 Lista o conteúdo do diretório atual

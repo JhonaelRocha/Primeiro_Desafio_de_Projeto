@@ -1,5 +1,6 @@
-<div align="center">
-<img src="imagens/gitlogo.jpg" alt="Git Logo">
+<div style="text-align: center;">
+  <img src="imagens/gitlogo.jpg" alt="GitHub Logo">
+  <p><em></em></p>
 </div>
 
 #Comandos Básicos do Git :school:
