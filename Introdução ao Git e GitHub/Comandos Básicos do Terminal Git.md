@@ -1,5 +1,5 @@
 <p align="center">
-<img src=imagens/gitlogo.jpg>
+<img src="imagens/gitlogo.jpg" alt="Git Logo">
 </p>
 
 #Comandos Básicos do Git :school:

@@ -1,5 +1,5 @@
 <p align="center">
-<img src="imagens/github_logo.jpg" alt="Texto alternativo">
+<img src="imagens/github_logo.jpg" alt="Git Hub Logo">
 </p>
 #GitHub
 
