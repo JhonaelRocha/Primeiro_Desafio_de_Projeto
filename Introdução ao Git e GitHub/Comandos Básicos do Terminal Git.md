@@ -1,3 +1,7 @@
+<p align="center">
+<img src=imagens/gitlogo.jpg>
+</p>
+
 #Comandos Básicos do Git :school:
   - **git init**
   Inicia um repositório local do git no diretório atual.
