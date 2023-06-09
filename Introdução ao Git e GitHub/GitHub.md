@@ -1,4 +1,4 @@
-#GitHub
+# GitHub
 
 O GitHub é amplamente utilizado para hospedar projetos de código aberto, fornecer documentação técnica, criar portfólios de projetos, colaborar em equipes distribuídas e muito mais. Ele se tornou um componente essencial do ecossistema de desenvolvimento de software moderno.
 1. Controle de versão: O GitHub é construído em torno do sistema de controle de versão Git. Ele permite que os desenvolvedores rastreiem as mudanças feitas no código-fonte ao longo do tempo, facilitem a colaboração em equipe e revertam alterações, se necessário.

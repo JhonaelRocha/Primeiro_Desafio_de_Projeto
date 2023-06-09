@@ -1,4 +1,4 @@
-#Comandos Básicos do Git :school:
+# Comandos Básicos do Git :school:
   - **git init :** 
   Inicia um repositório local do git no diretório atual.
   - **git config --list :** 
